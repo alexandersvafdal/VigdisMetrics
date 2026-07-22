@@ -1,4 +1,4 @@
-# vigdis-metrics
+# VigdisMetrics
 
 The Vigdís internal metrics dashboard **shell** — it contains no data.
 Open it and load `vigdis-data.json` (from iCloud Drive → Vigdis, produced by
